@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil :blue_heart
 
-meu nome é lays rayane
+meu nome é Lays Rayane
 
 
 - Estou estudando na Alura
