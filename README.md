@@ -11,4 +11,4 @@ meu nome é lays rayane
 
 lays.barros@escola.pr.gov.br
 -
-  ![descrição do GIF](link GIF do Tenor)
+  lays.barros@email.com
